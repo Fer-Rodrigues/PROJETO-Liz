@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626454246 source:c:\users\ferna\desktop\projeto liz\calculadorinha\main.c
+	<stdio.h>
+	<stdlib.h>
+
