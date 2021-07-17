@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626547060 source:c:\users\ferna\desktop\projeto liz\4\desafio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+

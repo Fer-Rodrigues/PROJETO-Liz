@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626481883 source:c:\users\ferna\desktop\projeto liz\3\teste de ifinho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
